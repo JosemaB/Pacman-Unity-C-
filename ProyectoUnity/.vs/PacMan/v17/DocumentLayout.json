@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Proyectos\\PacMan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|d:\\unity\\proyectos\\pacman\\assets\\scripts\\puntaje\\puntaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puntaje\\puntaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|D:\\Unity\\Proyectos\\PacMan\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|D:\\Unity\\Proyectos\\PacMan\\assets\\scripts\\ghost\\gohsteyes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ghost\\gohsteyes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|D:\\Unity\\Proyectos\\PacMan\\assets\\scripts\\pacman\\pacman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pacman\\pacman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|D:\\Unity\\Proyectos\\PacMan\\assets\\scripts\\ghost\\movimientoghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ghost\\movimientoghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|D:\\Unity\\Proyectos\\PacMan\\assets\\menuinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|solutionrelative:assets\\menuinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|D:\\Unity\\Proyectos\\PacMan\\assets\\desactivarvolumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|solutionrelative:assets\\desactivarvolumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|D:\\Unity\\Proyectos\\PacMan\\assets\\recordpuntaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|solutionrelative:assets\\recordpuntaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|D:\\Unity\\Proyectos\\PacMan\\assets\\scripts\\ghost\\waypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ghost\\waypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|D:\\Unity\\Proyectos\\PacMan\\assets\\scripts\\portales\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portales\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|D:\\Unity\\Proyectos\\PacMan\\assets\\scripts\\da\u00F1oycuracion\\objetoda\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\da\u00F1oycuracion\\objetoda\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|D:\\Unity\\Proyectos\\PacMan\\assets\\scripts\\pacman\\vidapacman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pacman\\vidapacman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|D:\\Unity\\Proyectos\\PacMan\\assets\\scripts\\comida\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\comida\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|D:\\Unity\\Proyectos\\PacMan\\assets\\scripts\\pacman\\corazonesui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78EF97-C8BA-DE3F-5C5F-B8B61251CC4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pacman\\corazonesui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecordPuntaje.cs",
+              "DocumentMoniker": "D:\\Unity\\Proyectos\\PacMan\\Assets\\RecordPuntaje.cs",
+              "RelativeDocumentMoniker": "Assets\\RecordPuntaje.cs",
+              "ToolTip": "D:\\Unity\\Proyectos\\PacMan\\Assets\\RecordPuntaje.cs",
+              "RelativeToolTip": "Assets\\RecordPuntaje.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:51:35.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuInicial.cs",
+              "DocumentMoniker": "D:\\Unity\\Proyectos\\PacMan\\Assets\\MenuInicial.cs",
+              "RelativeDocumentMoniker": "Assets\\MenuInicial.cs",
+              "ToolTip": "D:\\Unity\\Proyectos\\PacMan\\Assets\\MenuInicial.cs",
+              "RelativeToolTip": "Assets\\MenuInicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:53:12.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwFoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:26:31.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DesactivarVolumen.cs",
+              "DocumentMoniker": "D:\\Unity\\Proyectos\\PacMan\\Assets\\DesactivarVolumen.cs",
+              "RelativeDocumentMoniker": "Assets\\DesactivarVolumen.cs",
+              "ToolTip": "D:\\Unity\\Proyectos\\PacMan\\Assets\\DesactivarVolumen.cs",
+              "RelativeToolTip": "Assets\\DesactivarVolumen.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:33:39.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Puntaje.cs",
+              "DocumentMoniker": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Puntaje\\Puntaje.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Puntaje\\Puntaje.cs",
+              "ToolTip": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Puntaje\\Puntaje.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Puntaje\\Puntaje.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:11:12.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GohstEyes.cs",
+              "DocumentMoniker": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Ghost\\GohstEyes.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ghost\\GohstEyes.cs",
+              "ToolTip": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Ghost\\GohstEyes.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ghost\\GohstEyes.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:26:15.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacMan.cs",
+              "DocumentMoniker": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Pacman\\PacMan.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pacman\\PacMan.cs",
+              "ToolTip": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Pacman\\PacMan.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pacman\\PacMan.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAmwIUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:32:23.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovimientoGhost.cs",
+              "DocumentMoniker": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Ghost\\MovimientoGhost.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ghost\\MovimientoGhost.cs",
+              "ToolTip": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Ghost\\MovimientoGhost.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ghost\\MovimientoGhost.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:27:46.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ObjetoDa\u00F1o.cs",
+              "DocumentMoniker": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Da\u00F1oYCuracion\\ObjetoDa\u00F1o.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Da\u00F1oYCuracion\\ObjetoDa\u00F1o.cs",
+              "ToolTip": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Da\u00F1oYCuracion\\ObjetoDa\u00F1o.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Da\u00F1oYCuracion\\ObjetoDa\u00F1o.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:13:54.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Portal.cs",
+              "DocumentMoniker": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Portales\\Portal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Portales\\Portal.cs",
+              "ToolTip": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Portales\\Portal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Portales\\Portal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:10:56.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Waypoints.cs",
+              "DocumentMoniker": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Ghost\\Waypoints.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ghost\\Waypoints.cs",
+              "ToolTip": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Ghost\\Waypoints.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ghost\\Waypoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:27:43.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CorazonesUI.cs",
+              "DocumentMoniker": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Pacman\\CorazonesUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pacman\\CorazonesUI.cs",
+              "ToolTip": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Pacman\\CorazonesUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pacman\\CorazonesUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:33:52.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VidaPacman.cs",
+              "DocumentMoniker": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Pacman\\VidaPacman.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pacman\\VidaPacman.cs",
+              "ToolTip": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Pacman\\VidaPacman.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pacman\\VidaPacman.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:18:07.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Comida.cs",
+              "DocumentMoniker": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Comida\\Comida.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Comida\\Comida.cs",
+              "ToolTip": "D:\\Unity\\Proyectos\\PacMan\\Assets\\Scripts\\Comida\\Comida.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Comida\\Comida.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:26:18.902Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
